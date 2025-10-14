@@ -1,4 +1,8 @@
 package model;
 
-public class Subject {
+public enum Subject {
+    Novel,
+    Art,
+    Cinema,
+    Languages
 }

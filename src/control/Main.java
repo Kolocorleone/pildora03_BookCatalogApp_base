@@ -3,6 +3,7 @@ package control;
 
 import model.BookCatalog;
 import model.Subject;
+import model.Author;
 
 public class Main {
 
