@@ -49,6 +49,7 @@ direction BT
     Book "*" --> "1" Subject : subject
 ```
 
+a. Creamos un nuevo proyecto Java llamado BookCatalogApp. Al módulo que se crea por defecto lo llamamos catalog.
 
 b. Dentro de la carpeta src creamos un paquete llamado org.ulpgc.is1. Dentro de ese paquete creamos otros dos paquetes al mismo nivel llamados control y model. Movemos al paquete control la clase Main que se nos creó por defecto al crear el proyecto. En el paquete model, creamos todas las clases de nuestro diagrama de clases: BookCatalog, Book, Subject y Author.
 
